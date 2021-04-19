@@ -4,6 +4,7 @@ by **Animesh Kumar**
 
 ### Table of contents
 * [How to Execute](#how-to-execute)
+* [Access Django Admin](#access-django-admin)
 * [Features for Employees](#features-for-employees)
 * [Features for Managers](#features-for-managers)
 * [Contact developer](#contact-developer)
@@ -24,6 +25,12 @@ To be able to run this REST API server locally, open a terminal and execute
 and you should see the server is up at the IP `http://127.0.0.1:8000/`
 
 You can start making API requests to this server using some tool like `Postman`.
+
+### Access Django Admin
+Go to `http://127.0.0.1:8000/admin/` to be able change and view the database LIVE
+* username: ani
+* password: 12
+
 
 ### Features for Employees
 * View available list of equipments (GET)
